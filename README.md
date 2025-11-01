@@ -46,8 +46,8 @@ This demo outlines the **step-by-step setup** for enabling Scheduled Refresh for
 
 ## 🕒 Example Gateway Connection (Illustrative)
 
-> [![Scheduled Refresh Settings](./scheduled_refresh_example.png)](https://learn.microsoft.com/en-us/power-bi/connect-data/media/refresh-data/add-to-gateway.png)
-> *(The included image is for illustrative purposes only. Actual setup can be replicated using Power BI Service.)*
+> <img width="935" height="603" alt="add-to-gateway" src="https://github.com/user-attachments/assets/57395083-40d8-400b-a038-787da533cef2" />
+> *(The included image is for illustrative purposes only. Actual setup can be replicated using Power BI Service.)
 
 The image above represents a typical adding gateway setup in the Power BI Service interface
 
